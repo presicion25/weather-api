@@ -5,7 +5,7 @@
 It outputs the high and low temperature from my city when run.
 
 <p align="left">
-<img src="https://imgur.com/oDrzpWj.png alt="Traffic Examination"/>
+<img src="https://imgur.com/XDooPSp.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
